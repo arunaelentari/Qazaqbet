@@ -1,2 +1,2 @@
-# qazaqbet
-The Qazaqbet: a proposal for a Qazaq Latin alphabet
+# Qazaqbet
+The Qazaqbet repo contains a proposal for a Qazaq Latin alphabet.
